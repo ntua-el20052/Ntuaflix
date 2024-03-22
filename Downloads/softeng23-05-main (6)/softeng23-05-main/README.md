@@ -68,6 +68,7 @@ Follow these steps to set up the git repository:
 - The `server.py` file in the `front-end` folder launches the front-end server.
 - Ensure to have a stable internet connection during setup to download necessary dependencies.
 - When running the application locally, its source code was located in the path C:\temp\new_folder\softeng23-05; however, this may vary depending on the folder used for local storage of the application.
+- For the youtube video showcasing the website use the following link https://www.youtube.com/watch?v=2Q7fhXNg7Sc
   
 For any issues or inquiries, please contact the project maintainers. 
 
